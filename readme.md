@@ -34,6 +34,7 @@
  
  
 ## 数据集，本实验使用的是PASCAL VOC格式的数据集：
+* 本实验所使用的数据集下载地址：https://github.com/mendy-2013/Vehicle-Color-24-Dataset
 * Pascal VOC2012 train/val数据集下载地址：http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
 
 
